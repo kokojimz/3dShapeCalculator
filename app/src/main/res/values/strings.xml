@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">3dShapeCalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bola">Bola</string>
+    <string name="kubus">kubus</string>
+    <string name="piramida">piramida</string>
+    <string name="masukkan_jari_jari_bola">Masukkan jari - jari bola</string>
+    <string name="masukkan_sisi_kubus">masukkan sisi kubus</string>
+    <string name="masukkan_luas_alas_piramida">masukkan luas alas piramida</string>
+    <string name="masukkan_tinggi_piramida">masukkan tinggi piramida</string>
+    <string name="kalkulator_volume_piramida">Kalkulator volume Piramida</string>
+    <string name="hasil">Hasil</string>
+</resources>
